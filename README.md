@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Computer Science and Engineering student at the International Islamic University Chittagong, currently in my 2nd semester. With a strong foundation in coding, particularly in C++, I enjoy solving complex problems and continuously expanding my knowledge in the field.
+I am a passionate Computer Science and Engineering student at the International Islamic University Chittagong, currently in my 4th semester. With a strong foundation in coding, particularly in C++, I enjoy solving complex problems and continuously expanding my knowledge in the field.
 
 
 ## 🌐 Socials:
