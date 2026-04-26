@@ -17,7 +17,6 @@
 
 I'm a CSE undergrad at **IIUC** with interest in competitive programming, cybersecurity, and building things that actually work. I enjoy learning through doing and collaborating with people who care about what they build.
 
-- 🤖 Currently building **An ESP32-Based Surveillance Vehicle with Real-Time Object Detection**
 - 👨‍🏫 **Bootcamp Coordinator & Mentor** at IIUC Competitive Programming Society
 
 ---
